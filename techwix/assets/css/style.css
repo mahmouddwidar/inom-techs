@@ -464,6 +464,11 @@ label {
   text-transform: capitalize;
 }
 
+.header-cart,
+.techwix-video-section,
+.techwix-pricing-section {display: none;}
+
+
 /*Input Field & Select*/
 input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"]),
 textarea {
